@@ -14,8 +14,6 @@ Most wanted flexbox case
     <div>Item 2</div>
     <div>Item 3</div>
     <div>Item 4</div>
-    <div style="margin-right:auto">Item 5</div>
-    <div>Item 6</div>
 </div>
 ```
 
