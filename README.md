@@ -5,7 +5,6 @@ Most wanted flexbox case
 
 - Wrap by default
 - Gaps by default (1rem)
-- No overflow:hidden
 
 ## Ussage
 
