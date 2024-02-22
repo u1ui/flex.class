@@ -6,7 +6,7 @@ Most wanted flexbox case
 - Wrap by default
 - Gaps by default (1rem)
 
-## Ussage
+## Usage
 
 ```html
 <div class=u1-flex>
